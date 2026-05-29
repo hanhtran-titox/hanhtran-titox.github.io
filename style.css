@@ -2180,6 +2180,10 @@
       border-right: 0 !important;
     }
 
+    .sidebar-objective {
+      padding-top: 4px !important;
+    }
+
     .sidebar-title,
     .section-title {
       color: var(--ink) !important;
